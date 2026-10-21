@@ -1,0 +1,12 @@
+Hi Meenakshi,
+
+I’ve put together a safe, easy-to-read call list for your front desk team. You will find it attached as "overdue_diabetics_call_list.csv", which opens right up in Excel or Google Sheets. 
+
+To ensure we didn't miss anyone, I had the system look for diabetic patients in three ways: by checking doctor's notes, finding high blood sugar lab results, and looking for standard diabetes medications. 
+
+To ensure the front desk doesn't make any frustrating or redundant phone calls, I explicitly filtered out anyone who already has a future appointment booked. The spreadsheet includes the patient's name, phone number, the date they were last seen, and a "Context for Call" column. This column tells your staff exactly why the patient is on the list (e.g., whether they missed a specific scheduled appointment, or simply haven't been seen in over 6 months) so they know exactly what to say on the phone.
+
+Let me know if you need any adjustments to the 6-month timeline!
+
+Best,
+Anirudh
